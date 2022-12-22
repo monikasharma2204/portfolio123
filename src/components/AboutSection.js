@@ -80,8 +80,8 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText>
-            I am Monika Sharma. i am from Kota ,Rajasthan. I currently pursuing
-            BSC from Banasthali Vidhyapith .I have done my schooling from Prabha
+            I am Monika Sharma from Kota ,Rajasthan. I am currently pursuing BSC
+            from Banasthali Vidhyapith .I have done my schooling from Prabha
             Gyan pith sr. Sec school.
           </PText>
           <div className="aboutSection__buttons">

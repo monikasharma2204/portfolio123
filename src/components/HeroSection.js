@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import HeroImg from '../assets/images/download.png';
+import HeroImg from '../assets/images/about2.png';
 import Button from './Button';
 import SocialMediaArrow from '../assets/images/social-media-arrow.svg';
 import ScrollDownArrow from '../assets/images/scroll-down-arrow.svg';
@@ -28,7 +28,7 @@ const HeroStyles = styled.div`
     .hero__name {
       font-family: 'Montserrat SemiBold';
       font-size: 7rem;
-      color: var(white);
+      color: Gainsboro;
     }
   }
   .hero__img {
